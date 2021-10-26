@@ -1,0 +1,5 @@
+# This is excluding of the tmp directory
+
+tmp/
+
+#Here may be any other excludings
