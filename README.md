@@ -6,6 +6,10 @@ This is my first project with Rebrain. Here was created a repository for educati
 
 This project will get you a insight of my skills to create git repositories and to show results of my work.
 
+If you like any pictures you may to watch this:
+
+![Image of Vinilcat](https://octodex.github.com/images/vinyltocat.png)
+
 ### Prerequisites
 
 No prerequisites you need to use any files from this project. 
@@ -19,6 +23,10 @@ $ vi nginx.conf
 ```
 
 Simply copy the config file to your project, edit it and use.
+You may to do:
+
+- [x] to do this
+- [ ] nothing to do.
 
 ## Running the tests
 
